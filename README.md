@@ -1,14 +1,17 @@
-### study-of-basic-gates
+![WhatsApp Image 2024-10-28 at 11 37 20_8a807ad0](https://github.com/user-attachments/assets/08e3ddcf-5cbc-42c9-92f3-dbea0a9bf588)![RTL Viewer - C__altera_13 0sp1_logicgates - logicgates 28-10-2024 10_55_05](https://github.com/user-attachments/assets/f4b009d1-d197-44b2-898b-8df264cd986c)### study-of-basic-gates
+### name: Hasmitha V Nancy
+### register number: 24004046
+### experiment_1: logic gate
 
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
-**Equipments Required:**
+**EQUIPMENTS REQUIRED:**
 
 Software – Quartus prime 
 
-**Theory**
+**THEORY**
 
 Introduction Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
@@ -49,7 +52,7 @@ Y= A⊕B
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 Y= A⊕B
 
-**Procedure** 
+**PROCEDURE** 
 
 1.	Type the program in Quartus software.
 
@@ -63,17 +66,29 @@ Y= A⊕B
 
 
 **PROGRAM**
+![Uploading Quartus II 64-Bit - C__altera_13.0sp1_logicgates - logicgates 28-10-2024 11_22_42.png…]()
+
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: RegisterNumber: 
  
-**Logic symbol & Truthtable**
+**LOGIC SYMBOL & TRUTHTABLE**
 
-**RTL realization Output:** 
+![WhatsApp Image 2024-10-28 at 11 37 20_8a807ad0](https://github.com/user-attachments/assets/fc8b6f79-e6a8-4d67-97ac-b4832c04ac1e)
 
-**RTL**
+
+**RTL OUTPUT:** 
+
+![RTL Viewer - C__altera_13 0sp1_logicgates - logicgates 28-10-2024 10_55_05](https://github.com/user-attachments/assets/701a27f3-9db2-4a01-a99a-1dd1193a84bf)
+
+
+**OUTPUT WAVEFORM**
+![Simulation Waveform Editor - C__altera_13 0sp1_logicgates - logicgates -  Waveform vwf _ 28-10-2024 11_10_10](https://github.com/user-attachments/assets/ca94d317-c43d-4924-857e-395d73cb8812)
+
+
 
 **Result:**
+studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully
 
 
