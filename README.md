@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-28 at 11 37 20_8a807ad0](https://github.com/user-attachments/assets/08e3ddcf-5cbc-42c9-92f3-dbea0a9bf588)(https://github.com/user-attachments/assets/f4b009d1-d197-44b2-898b-8df264cd986c)### study-of-basic-gates
+(https://github.com/user-attachments/assets/08e3ddcf-5cbc-42c9-92f3-dbea0a9bf588)(https://github.com/user-attachments/assets/f4b009d1-d197-44b2-898b-8df264cd986c)### study-of-basic-gates
 ### name: Hasmitha V Nancy
 ### register number: 24004046
 ### experiment_1: logic gate
