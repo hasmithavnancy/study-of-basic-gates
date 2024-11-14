@@ -66,7 +66,8 @@ Y= A⊕B
 
 
 **PROGRAM**
-![Uploading Quartus II 64-Bit - C__altera_13.0sp1_logicgates - logicgates 28-10-2024 11_22_42.png…]()
+![Quartus II 64-Bit - C__altera_13 0sp1_logicgates - logicgates 28-10-2024 11_22_42](https://github.com/user-attachments/assets/c780af9c-5475-4a42-af19-3661da8ddb1c)
+
 
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
