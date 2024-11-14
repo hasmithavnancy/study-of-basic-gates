@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-10-28 at 11 37 20_8a807ad0](https://github.com/user-attachments/assets/08e3ddcf-5cbc-42c9-92f3-dbea0a9bf588)![RTL Viewer - C__altera_13 0sp1_logicgates - logicgates 28-10-2024 10_55_05](https://github.com/user-attachments/assets/f4b009d1-d197-44b2-898b-8df264cd986c)### study-of-basic-gates
+![WhatsApp Image 2024-10-28 at 11 37 20_8a807ad0](https://github.com/user-attachments/assets/08e3ddcf-5cbc-42c9-92f3-dbea0a9bf588)(https://github.com/user-attachments/assets/f4b009d1-d197-44b2-898b-8df264cd986c)### study-of-basic-gates
 ### name: Hasmitha V Nancy
 ### register number: 24004046
 ### experiment_1: logic gate
@@ -84,8 +84,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **OUTPUT WAVEFORM**
-![Simulation Waveform Editor - C__altera_13 0sp1_logicgates - logicgates -  Waveform vwf _ 28-10-2024 11_10_10](https://github.com/user-attachments/assets/ca94d317-c43d-4924-857e-395d73cb8812)
 
+![waveform](https://github.com/user-attachments/assets/983d4a38-61e1-419e-bd45-d605b55eb814)
 
 
 **Result:**
