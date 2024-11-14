@@ -1,6 +1,6 @@
 
-### name: Hasmitha V Nancy
-### register number: 24004046
+### Name: HASMITHA V NANCY
+### Register Number: 24004046
 ### Experiment No:1 Study Of Logic Gates
 
 **AIM:** 
